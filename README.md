@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Serhii 👋
 
-<!--
-**SerhiiSmilianets/SerhiiSmilianets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Salesforce Commerce Cloud (SFCC) Developer and Salesforce Consultant, architecting and delivering enterprise B2C e-commerce solutions.
 
-Here are some ideas to get you started:
+My core expertise is in headless and server-side commerce architecture — building custom API hooks, optimizing backend logic, and integrating complex third-party systems (payment gateways, order management, marketing platforms) into large-scale e-commerce platforms. I've also expanded into the core Salesforce platform, building automation and AI-driven workflows with Apex, LWC, Flow, and Agentforce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently deepening my skills in data engineering and applied AI, and enjoy building tools that turn manual processes into automated, intelligent systems.
+
+## What I work with
+
+**Commerce & Backend**
+`SFRA` `SiteGenesis` `OCAPI` `SCAPI` `SLAS` `Node.js` `Express.js`
+
+**Salesforce Platform**
+`Apex` `LWC` `Flow` `Agentforce AI` `SOQL` `SOSL`
+
+**Frontend**
+`JavaScript` `React` `Next.js` `HTML` `CSS / SCSS / SASS`
+
+**Data & Scripting**
+`Python` `SQL`
+
+## Certifications
+
+- Salesforce Certified B2C Commerce Developer
+- Salesforce Certified Agentforce Specialist
+- Salesforce Certified Platform Administrator
+- Salesforce Certified App Builder
+
+## Let's connect
+
+- 🌐 Portfolio: [serhiismilianets.vercel.app](https://serhiismilianets.vercel.app/)
+- 💼 LinkedIn: [in/serhii-smilianets-3425021b8](https://www.linkedin.com/in/serhii-smilianets-3425021b8/)
