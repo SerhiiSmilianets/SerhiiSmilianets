@@ -12,13 +12,14 @@ I'm currently deepening my skills in data engineering and applied AI, and enjoy 
 `SFRA` `SiteGenesis` `OCAPI` `SCAPI` `SLAS` `Node.js` `Express.js`
 
 **Salesforce Platform**
-`Apex` `LWC` `Flow` `Agentforce AI` `SOQL` `SOSL`
+`Flow` `Agentforce AI` `SOQL` `SOSL` `Apex` `LWC`
 
 **Frontend**
 `JavaScript` `React` `Next.js` `HTML` `CSS / SCSS / SASS`
 
-**Data & Scripting**
-`Python` `SQL`
+## Learning
+
+`Python` `SQL` `SOQL` `SOSL` `Apex` `LWC`
 
 ## Certifications
 
